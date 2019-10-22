@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/globalsign/mgo"
+	"github.com/crlome/mgo"
 )
 
 type Config struct {

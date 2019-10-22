@@ -2,7 +2,7 @@ package bongo
 
 import (
 	. "github.com/smartystreets/goconvey/convey"
-	"github.com/globalsign/mgo/bson"
+	"github.com/crlome/mgo/bson"
 	"testing"
 )
 

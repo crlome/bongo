@@ -1,7 +1,7 @@
 package bongo
 
 import (
-	"github.com/globalsign/mgo"
+	"github.com/crlome/mgo"
 	"math"
 )
 

@@ -1,7 +1,7 @@
 package bongo
 
 import (
-	"github.com/globalsign/mgo/bson"
+	"github.com/crlome/mgo/bson"
 	"reflect"
 )
 
